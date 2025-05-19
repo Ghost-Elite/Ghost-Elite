@@ -17,12 +17,6 @@ Je suis développeur Flutter, passionné par la création d’applications mobil
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 <!-- Ajoute ici d'autres technos (Java, Swift, Node.js...) si besoin -->
 
-## 🌟 Projets phares
-
-- **NomDuProjet1** — Application mobile pour [description courte].
-- **NomDuProjet2** — Projet open-source pour [description courte].
-<!-- Remplace ces lignes par tes vrais projets ! -->
-
 ## 📈 Statistiques GitHub
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ghost-Elite&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
